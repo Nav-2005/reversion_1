@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.nishanth-theme {
+  width: 100%;
+  height: 50%;
+  padding: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
